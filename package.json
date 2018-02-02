@@ -3,6 +3,9 @@
 	"homepage": "http://veams.org/",
 	"version": "1.6.0",
 	"description": "Veams command line interface",
+	"engines": {
+		"node": ">=8.0.0"
+	},
 	"scripts": {
 		"test": "test"
 	},
